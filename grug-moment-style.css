@@ -3,7 +3,6 @@ header {
   background-image: orange;
 }
 
-p {
-  font-family: Comic Sans MS;
-  font-size: 200%;
+body {
+  cursor:url("cursor.cur");
 }
