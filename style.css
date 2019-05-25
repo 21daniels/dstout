@@ -1,4 +1,9 @@
 h1 {
   font-family: Comic Sans MS;
   font-size: 2em;
+  align: center;
+}
+
+img {
+  align: center;
 }
