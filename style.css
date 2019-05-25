@@ -3,3 +3,7 @@ h1 {
   font-size: 2em;
   color: white;
 }
+
+body {
+  margin-top: 100px;
+}
